@@ -4,16 +4,11 @@
 ![MasterHead](https://estio.training/wp-content/uploads/2021/06/IT-Essentials.png)
 
 <h1 align="center">Hi 👋, I'm Azriel Williams</h1>
+<h3 align="center">A passion for creating networks, troubleshooting networks and developing a career in IT.</h3>
 
-<h3 align="center">A passion for creating networks, troubleshooting networks and developing a career in IT.
-  
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" >
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azriel-williams&label=Profile%20views&color=0e75b6&style=flat" alt="azriel-williams" /> </p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azriel-williams" alt="azriel-williams" /></a> </p>
 
 - 🌱 I’m currently learning **CompTIA Network+ and Security+**
 
@@ -21,6 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/azriel williams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azriel williams" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/azriel williams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="azriel williams" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azriel-williams&show_icons=true&locale=en" alt="azriel-williams" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azriel-williams&" alt="azriel-williams"
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azriel-williams&" alt="azriel-williams" /></p>
