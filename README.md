@@ -1,12 +1,17 @@
-[![MasterHead](https://www.examcollection.co/design/img/cert/comptia-a-plus.png)
-[![MasterHead](https://th.bing.com/th/id/OIP.iVHdzfTnEPdX9mxfC3nBfwAAAA?rs=1&pid=ImgDetMain)
-[![MasterHead](https://th.bing.com/th/id/OIP.8sXhGgA8PQNeHTaFgFcKHwHaHU?rs=1&pid=ImgDetMain)
-[![MasterHead](https://th.bing.com/th/id/OIP.006EqLscxuRvpKQIJon83AAAAA?rs=1&pid=ImgDetMain)
+![MasterHead](https://th.bing.com/th/id/OIP.5W5FmciIEIBfcS0bMF3BtgAAAA?pid=ImgDet&w=165&h=178.70036101083033&c=7)
+![MasterHead](https://assets-global.website-files.com/5fc82ceef95f49286b9a1737/623ca6569cbafb2e00dde673_Cert-Icon-PC-Pro.png)
+![MasterHead](https://th.bing.com/th/id/OIP.dt52MarLqPCMpJuB3zCVzAHaHa?pid=ImgDet&w=165&h=165&c=7)
+![MasterHead](https://estio.training/wp-content/uploads/2021/06/IT-Essentials.png)
+
 <h1 align="center">Hi 👋, I'm Azriel Williams</h1>
-<h3 align="center">A passion for creating networks, troubleshooting networks and developing a career in IT.</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+
+<h3 align="center">A passion for creating networks, troubleshooting networks and developing a career in IT.
+  
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" >
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azriel-williams&label=Profile%20views&color=0e75b6&style=flat" alt="azriel-williams" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azriel-williams" alt="azriel-williams" /></a> </p>
 
@@ -25,5 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azriel-williams&show_icons=true&locale=en" alt="azriel-williams" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azriel-williams&" alt="azriel-williams" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azriel-williams&" alt="azriel-williams"
